@@ -1,6 +1,7 @@
 # 팀이름
 ---
 ## Caerang Tutor ✏️
+![image](https://user-images.githubusercontent.com/101651909/202347907-6d5b0296-f4ba-4a4e-a4fb-2574b8f2cc07.png)
 
 
 ### 아이디어
